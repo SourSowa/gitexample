@@ -9,3 +9,9 @@ Acts as a checkpoint for our project its a snapshot of our project during that p
 
 ## What is a push?
 Pushing allows us to move our commit to a remote repository. In this case github
+
+## What are branches?
+Branches are diffrent versions of our repo created from a commit. They allow us to work on diffrent versions of our project simultaneously with others while keeping our work independent. Master/Main branch is usually the default branch with the most changes.
+
+## What is merging?
+Merging is taking it to another. Usually we'll have feature branches that branched of the Main branch and we'll merge once the feature is complete.
